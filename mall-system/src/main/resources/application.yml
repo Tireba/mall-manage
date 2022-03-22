@@ -1,0 +1,18 @@
+server:
+  port: 20872
+  servlet:
+    context-path: /mallManage
+
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ANT_PATH_MATCHER
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/mall_manage
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: Tireba872..
+
+
+
