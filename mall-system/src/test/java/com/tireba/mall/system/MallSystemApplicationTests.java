@@ -1,4 +1,4 @@
-package com.tireba.mallsystem;
+package com.tireba.mall.system;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.tireba.mallsystem.config;
+package com.tireba.mall.system.config;
 
 import com.google.common.base.Predicate;
 import org.springframework.beans.factory.annotation.Value;

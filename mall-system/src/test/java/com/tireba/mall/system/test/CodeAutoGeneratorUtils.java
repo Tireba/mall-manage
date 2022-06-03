@@ -1,4 +1,4 @@
-package com.tireba.mallsystem.utils;
+package com.tireba.mall.system.test;
 
 import com.baomidou.mybatisplus.annotation.FieldFill;
 import com.baomidou.mybatisplus.generator.FastAutoGenerator;
